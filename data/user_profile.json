@@ -1,0 +1,92 @@
+{
+  "username": "CodeWarrior",
+  "avatar": "⚡",
+  "theme": "amethyst",
+  "level": 4,
+  "xp": 626,
+  "xpToNextLevel": 400,
+  "coins": 30,
+  "streak": 1,
+  "maxStreak": 1,
+  "lastActiveDate": "2026-10-16",
+  "streakFrozen": false,
+  "inventory": {
+    "streakFreeze": 2,
+    "hintCredits": 15,
+    "unlockedThemes": [
+      "cyberpunk",
+      "amethyst"
+    ],
+    "unlockedAvatars": [
+      "⚡",
+      "🥋"
+    ]
+  },
+  "stats": {
+    "totalAnswered": 94,
+    "totalCorrect": 15,
+    "quizzesCompleted": 15,
+    "bossesDefeated": 0,
+    "survivalBest": 0,
+    "timeAttackBest": 1,
+    "mistakesReviewed": 3
+  },
+  "weeklyActivity": {
+    "2026-10-16": 16,
+    "2026-10-15": 0,
+    "2026-10-14": 0,
+    "2026-10-13": 0,
+    "2026-10-12": 0,
+    "2026-10-11": 0,
+    "2026-10-10": 0
+  },
+  "mistakeQuestionIds": [
+    "TCS-EXT-147",
+    "TCS-EXT-171",
+    "TCS-VERB-4",
+    "TCS-EXT-104",
+    "TCS-EXT-208",
+    "TCS-REAS-2",
+    "TCS-EXT-156",
+    "TCS-CODE-26",
+    "TCS-REAS-4",
+    "TCS-VERB-2",
+    "TCS-CODE-7",
+    "TCS-EXT-68",
+    "TCS-EXT-77",
+    "TCS-DIGI-2",
+    "TCS-TECH-11",
+    "TCS-EXT-221",
+    "TCS-EXT-189",
+    "TCS-TECH-12",
+    "TCS-EXT-134"
+  ],
+  "completedDailyDates": [
+    "2026-10-16"
+  ],
+  "achievements": [
+    {
+      "id": "first_blood",
+      "title": "First Step",
+      "description": "Answer your very first question correctly.",
+      "icon": "🎯",
+      "unlockedAt": "2026-10-16T11:56:16.310983"
+    },
+    {
+      "id": "tcs_cadet",
+      "title": "TCS Cadet",
+      "description": "Complete your first challenge in the TCS NQT Arena.",
+      "icon": "🎖️",
+      "unlockedAt": "2026-10-16T11:56:16.311003"
+    },
+    {
+      "id": "mistake_slayer",
+      "title": "Reflective Learner",
+      "description": "Review and conquer at least 3 previously missed questions.",
+      "icon": "📖",
+      "unlockedAt": "2026-10-16T15:17:34.044247"
+    }
+  ],
+  "inProgressSession": null,
+  "currentLevelXp": 26
+}
