@@ -1,0 +1,2 @@
+# smart-gaming-type-placement-preperation-platform
+CareerQuest is a next-generation, gamified learning platform that transforms the stressful, tedious process of placement preparation into an addictive, rewarding real-life RPG. By blending rigorous technical and aptitude training with classic game mechanics—like daily streaks, experience points (XP), skill trees, and badges—the platform turns caree
